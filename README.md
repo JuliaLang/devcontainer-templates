@@ -1,3 +1,7 @@
+# NOTE TO JULIA DEVS
+
+This repo needs to be customized for Julia before it is useful, i.e. this is very much a work-in-progress. Once that is done it will be the "official" devcontainer template for the Julia language.
+
 # Dev Container Templates: Self Authoring Guide
 
 > This repo provides a starting point and example for creating your own custom [Dev Container Templates](https://containers.dev/implementors/templates), hosted for free on GitHub Container Registry.  The example in this repository follows the [Dev Container Template distribution specification](https://containers.dev/implementors/templates-distribution/).  
