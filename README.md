@@ -1,6 +1,6 @@
 # NOTE TO JULIA DEVS
 
-This repo needs to be customized for Julia before it is useful, i.e. this is very much a work-in-progress. Once that is done it will be the "official" devcontainer template for the Julia language.
+This repo needs to be customized for Julia before it is useful, i.e. this is very much a work-in-progress. Once that is done it will be the "official" devcontainer template for the Julia language. @davidanthoff is handling things here.
 
 # Dev Container Templates: Self Authoring Guide
 
