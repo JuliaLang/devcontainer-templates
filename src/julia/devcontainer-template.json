@@ -1,6 +1,6 @@
 {
 	"id": "julia",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Julia",
 	"description": "Develop Julia applications.",
 	"documentationURL": "https://github.com/JuliaLang/devcontainer-templates/tree/main/src/julia",
