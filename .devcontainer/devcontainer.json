@@ -8,6 +8,9 @@
 		"vscode": {
 			"extensions": [
 				"mads-hartmann.bash-ide-vscode",
+				"EditorConfig.EditorConfig",
+				"foxundermoon.shell-format",
+				"timonwong.shellcheck",
 				"dbaeumer.vscode-eslint"
 			]
 		}

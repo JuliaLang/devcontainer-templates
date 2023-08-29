@@ -1,0 +1,23 @@
+{
+	"id": "julia",
+	"version": "1.0.0",
+	"name": "Julia",
+	"description": "Develop Julia applications.",
+	"documentationURL": "https://github.com/JuliaLang/devcontainer-templates/tree/main/src/julia",
+	"publisher": "Julia Language Community",
+	"licenseURL": "https://github.com/JuliaLang/devcontainer-templates/blob/main/LICENSE",
+	"options": {
+		"channel": {
+			"type": "string",
+			"description": "A Juliaup channel",
+			"default": "release",
+			"proposals": [
+				"release",
+				"lts"
+			]
+		}
+	},
+	"platforms": [
+		"julia"
+	]
+}
